@@ -42,4 +42,5 @@ Kaggle: The Netflix dataset used in this project was obtained from Kaggle, a pla
 Stack Overflow: Community discussions and solutions on Stack Overflow were referenced to address specific programming challenges encountered during the project development.
 GitHub: Open-source repositories on GitHub served as a reference for best practices, code snippets, and implementation examples related to recommendation engines and machine learning.
 
-https://www.google.com/search?q=Netflix+recommended+engine+image+for+project&tbm=isch&ved=2ahUKEwi1vIjA9oKFAxXWgmMGHYWtC4AQ2-cCegQIABAA&oq=Netflix+recommended+engine+image+for+project&gs_lp=EgNpbWciLE5ldGZsaXggcmVjb21tZW5kZWQgZW5naW5lIGltYWdlIGZvciBwcm9qZWN0SOpAUM8FWIw-cAB4AJABAJgB4gGgAaMRqgEGMC4xOC4xuAEDyAEA-AEBigILZ3dzLXdpei1pbWfCAgQQIxgniAYB&sclient=img&ei=zuH6ZbWdAtaFjuMPhduugAg&bih=953&biw=1920&prmd=invsmbtz#imgrc=es1fXaafP_G9_M
+![image](https://github.com/DrPoojaAbhijith/Netflix-Recommendation-Engine/assets/160575120/9b50a2ee-e97a-456c-ba0c-be34fd3da330)
+
