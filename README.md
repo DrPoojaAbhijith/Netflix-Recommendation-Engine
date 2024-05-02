@@ -1,18 +1,18 @@
 # Netflix-Recommendation-Engine
 
-Introduction:
+## Introduction:
 
 Welcome to the Netflix Recommendation Engine project! This project aims to develop a recommendation system for Netflix users based on their viewing history and preferences. By leveraging machine learning algorithms and data analysis techniques, I strive to deliver personalized recommendations to enhance the user experience on the platform.
 
 
-Objectives
+## Objectives
 1. Find out the list of most popular and liked genre
 2. Create Model that finds the best suited Movie for one user in every genre.
 3. Find what Genre Movies have received the best and worst ratings based on User Rating.
 
 
 
-Dataset Information
+## Dataset Information
 The dataset contains the following columns:
 
 1) ID: Contains separate keys for customers and movies.
@@ -31,7 +31,7 @@ To get started with the Netflix Recommendation Engine project, I followed these 
 5) Model Evaluation: Evaluate the performance of the recommendation models using appropriate evaluation metrics and techniques.
 
 
-Acknowledgements
+## Acknowledgements
 The training data came in 17,000+ files. In the interest of keeping files together and file sizes as low as possible, I used one combined file: combined_data_1.txt
 
 The contest was originally hosted at http://netflixprize.com/index.html
@@ -39,7 +39,7 @@ The contest was originally hosted at http://netflixprize.com/index.html
 The dataset was downloaded from https://archive.org/download/nf_prize_dataset.tar
 
 
-References: 
+## References: 
 This project utilized information and resources from various internet sources. The following references were instrumental in the development of this project:
 
 1) Kaggle: The Netflix dataset used in this project was obtained from Kaggle, a platform for data science competitions and datasets.
